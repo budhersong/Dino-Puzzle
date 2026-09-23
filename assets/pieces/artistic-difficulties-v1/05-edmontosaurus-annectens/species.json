@@ -1,0 +1,523 @@
+{
+  "number": 5,
+  "ko": "에드몬토사우루스",
+  "name": "Edmontosaurus annectens",
+  "source": "assets/source-images/edmontosaurus-side-candidate.png",
+  "difficulties": {
+    "easy": {
+      "piece_count": 6,
+      "assigned_ink_pixels": 298398,
+      "min_piece_pixels": 20023,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/easy/01-piece-1.png",
+          "bbox": [
+            25,
+            103,
+            874,
+            350
+          ],
+          "ink_pixels": 44238
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/easy/02-piece-2.png",
+          "bbox": [
+            1052,
+            458,
+            2200,
+            703
+          ],
+          "ink_pixels": 20023
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/easy/03-piece-3.png",
+          "bbox": [
+            0,
+            122,
+            1264,
+            703
+          ],
+          "ink_pixels": 35930
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/easy/04-piece-4.png",
+          "bbox": [
+            1214,
+            92,
+            2185,
+            331
+          ],
+          "ink_pixels": 68074
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/easy/05-piece-5.png",
+          "bbox": [
+            734,
+            0,
+            1767,
+            238
+          ],
+          "ink_pixels": 58593
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/easy/06-piece-6.png",
+          "bbox": [
+            1072,
+            218,
+            1881,
+            508
+          ],
+          "ink_pixels": 71540
+        }
+      ]
+    },
+    "normal": {
+      "piece_count": 12,
+      "assigned_ink_pixels": 298398,
+      "min_piece_pixels": 2715,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/01-piece-1.png",
+          "bbox": [
+            25,
+            158,
+            712,
+            350
+          ],
+          "ink_pixels": 27495
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/02-piece-2.png",
+          "bbox": [
+            1688,
+            98,
+            2200,
+            703
+          ],
+          "ink_pixels": 18346
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/03-piece-3.png",
+          "bbox": [
+            0,
+            670,
+            702,
+            703
+          ],
+          "ink_pixels": 2715
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/04-piece-4.png",
+          "bbox": [
+            1593,
+            96,
+            1976,
+            341
+          ],
+          "ink_pixels": 29514
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/05-piece-5.png",
+          "bbox": [
+            1251,
+            423,
+            1720,
+            637
+          ],
+          "ink_pixels": 11059
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/06-piece-6.png",
+          "bbox": [
+            584,
+            43,
+            1321,
+            242
+          ],
+          "ink_pixels": 38327
+        },
+        {
+          "piece": 7,
+          "label": "조각 7",
+          "en": "Puzzle piece 7",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/07-piece-7.png",
+          "bbox": [
+            653,
+            263,
+            1797,
+            703
+          ],
+          "ink_pixels": 19001
+        },
+        {
+          "piece": 8,
+          "label": "조각 8",
+          "en": "Puzzle piece 8",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/08-piece-8.png",
+          "bbox": [
+            1018,
+            118,
+            1687,
+            317
+          ],
+          "ink_pixels": 46061
+        },
+        {
+          "piece": 9,
+          "label": "조각 9",
+          "en": "Puzzle piece 9",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/09-piece-9.png",
+          "bbox": [
+            638,
+            183,
+            1322,
+            352
+          ],
+          "ink_pixels": 33188
+        },
+        {
+          "piece": 10,
+          "label": "조각 10",
+          "en": "Puzzle piece 10",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/10-piece-10.png",
+          "bbox": [
+            1113,
+            588,
+            1742,
+            703
+          ],
+          "ink_pixels": 9456
+        },
+        {
+          "piece": 11,
+          "label": "조각 11",
+          "en": "Puzzle piece 11",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/11-piece-11.png",
+          "bbox": [
+            1008,
+            0,
+            1787,
+            167
+          ],
+          "ink_pixels": 29989
+        },
+        {
+          "piece": 12,
+          "label": "조각 12",
+          "en": "Puzzle piece 12",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/normal/12-piece-12.png",
+          "bbox": [
+            1144,
+            263,
+            1587,
+            482
+          ],
+          "ink_pixels": 33247
+        }
+      ]
+    },
+    "hard": {
+      "piece_count": 20,
+      "assigned_ink_pixels": 298398,
+      "min_piece_pixels": 3168,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/01-piece-1.png",
+          "bbox": [
+            406,
+            116,
+            750,
+            290
+          ],
+          "ink_pixels": 7113
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/02-piece-2.png",
+          "bbox": [
+            1494,
+            282,
+            2200,
+            703
+          ],
+          "ink_pixels": 15553
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/03-piece-3.png",
+          "bbox": [
+            0,
+            162,
+            1670,
+            703
+          ],
+          "ink_pixels": 14627
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/04-piece-4.png",
+          "bbox": [
+            1538,
+            130,
+            1886,
+            346
+          ],
+          "ink_pixels": 18929
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/05-piece-5.png",
+          "bbox": [
+            1014,
+            0,
+            1748,
+            150
+          ],
+          "ink_pixels": 24659
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/06-piece-6.png",
+          "bbox": [
+            1262,
+            378,
+            1747,
+            566
+          ],
+          "ink_pixels": 8949
+        },
+        {
+          "piece": 7,
+          "label": "조각 7",
+          "en": "Puzzle piece 7",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/07-piece-7.png",
+          "bbox": [
+            818,
+            138,
+            2006,
+            703
+          ],
+          "ink_pixels": 13151
+        },
+        {
+          "piece": 8,
+          "label": "조각 8",
+          "en": "Puzzle piece 8",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/08-piece-8.png",
+          "bbox": [
+            834,
+            98,
+            1587,
+            266
+          ],
+          "ink_pixels": 28683
+        },
+        {
+          "piece": 9,
+          "label": "조각 9",
+          "en": "Puzzle piece 9",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/09-piece-9.png",
+          "bbox": [
+            25,
+            218,
+            598,
+            350
+          ],
+          "ink_pixels": 16259
+        },
+        {
+          "piece": 10,
+          "label": "조각 10",
+          "en": "Puzzle piece 10",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/10-piece-10.png",
+          "bbox": [
+            858,
+            202,
+            1230,
+            354
+          ],
+          "ink_pixels": 12975
+        },
+        {
+          "piece": 11,
+          "label": "조각 11",
+          "en": "Puzzle piece 11",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/11-piece-11.png",
+          "bbox": [
+            694,
+            42,
+            1103,
+            182
+          ],
+          "ink_pixels": 11750
+        },
+        {
+          "piece": 12,
+          "label": "조각 12",
+          "en": "Puzzle piece 12",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/12-piece-12.png",
+          "bbox": [
+            1206,
+            574,
+            1721,
+            703
+          ],
+          "ink_pixels": 8210
+        },
+        {
+          "piece": 13,
+          "label": "조각 13",
+          "en": "Puzzle piece 13",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/13-piece-13.png",
+          "bbox": [
+            1906,
+            138,
+            2185,
+            331
+          ],
+          "ink_pixels": 10544
+        },
+        {
+          "piece": 14,
+          "label": "조각 14",
+          "en": "Puzzle piece 14",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/14-piece-14.png",
+          "bbox": [
+            1148,
+            286,
+            1577,
+            450
+          ],
+          "ink_pixels": 24896
+        },
+        {
+          "piece": 15,
+          "label": "조각 15",
+          "en": "Puzzle piece 15",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/15-piece-15.png",
+          "bbox": [
+            1134,
+            162,
+            1502,
+            338
+          ],
+          "ink_pixels": 25994
+        },
+        {
+          "piece": 16,
+          "label": "조각 16",
+          "en": "Puzzle piece 16",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/16-piece-16.png",
+          "bbox": [
+            550,
+            246,
+            906,
+            324
+          ],
+          "ink_pixels": 4381
+        },
+        {
+          "piece": 17,
+          "label": "조각 17",
+          "en": "Puzzle piece 17",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/17-piece-17.png",
+          "bbox": [
+            542,
+            122,
+            962,
+            298
+          ],
+          "ink_pixels": 21834
+        },
+        {
+          "piece": 18,
+          "label": "조각 18",
+          "en": "Puzzle piece 18",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/18-piece-18.png",
+          "bbox": [
+            1234,
+            46,
+            2063,
+            202
+          ],
+          "ink_pixels": 19652
+        },
+        {
+          "piece": 19,
+          "label": "조각 19",
+          "en": "Puzzle piece 19",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/19-piece-19.png",
+          "bbox": [
+            26,
+            670,
+            862,
+            703
+          ],
+          "ink_pixels": 3168
+        },
+        {
+          "piece": 20,
+          "label": "조각 20",
+          "en": "Puzzle piece 20",
+          "file": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens/hard/20-piece-20.png",
+          "bbox": [
+            1251,
+            474,
+            1715,
+            662
+          ],
+          "ink_pixels": 7071
+        }
+      ]
+    }
+  }
+}
