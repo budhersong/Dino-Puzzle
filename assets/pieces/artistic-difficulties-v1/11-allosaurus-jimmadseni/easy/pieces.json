@@ -1,0 +1,84 @@
+{
+  "piece_count": 6,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/11-allosaurus-jimmadseni/easy/01-piece-1.png",
+      "bbox": [
+        0,
+        0,
+        796,
+        304
+      ],
+      "ink_pixels": 93422
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/11-allosaurus-jimmadseni/easy/02-piece-2.png",
+      "bbox": [
+        498,
+        518,
+        1247,
+        747
+      ],
+      "ink_pixels": 20229
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/11-allosaurus-jimmadseni/easy/03-piece-3.png",
+      "bbox": [
+        1190,
+        134,
+        2200,
+        421
+      ],
+      "ink_pixels": 66504
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/11-allosaurus-jimmadseni/easy/04-piece-4.png",
+      "bbox": [
+        86,
+        194,
+        1294,
+        400
+      ],
+      "ink_pixels": 95319
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/11-allosaurus-jimmadseni/easy/05-piece-5.png",
+      "bbox": [
+        602,
+        51,
+        1420,
+        292
+      ],
+      "ink_pixels": 86353
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/11-allosaurus-jimmadseni/easy/06-piece-6.png",
+      "bbox": [
+        448,
+        344,
+        1204,
+        568
+      ],
+      "ink_pixels": 46109
+    }
+  ]
+}
