@@ -1,0 +1,266 @@
+{
+  "piece_count": 20,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/01-piece-1.png",
+      "bbox": [
+        0,
+        57,
+        765,
+        158
+      ],
+      "ink_pixels": 15419
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/02-piece-2.png",
+      "bbox": [
+        1542,
+        450,
+        2200,
+        518
+      ],
+      "ink_pixels": 3405
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/03-piece-3.png",
+      "bbox": [
+        0,
+        488,
+        714,
+        518
+      ],
+      "ink_pixels": 2063
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/04-piece-4.png",
+      "bbox": [
+        1757,
+        202,
+        1841,
+        394
+      ],
+      "ink_pixels": 3751
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/05-piece-5.png",
+      "bbox": [
+        1510,
+        0,
+        1841,
+        150
+      ],
+      "ink_pixels": 1875
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/06-piece-6.png",
+      "bbox": [
+        861,
+        270,
+        1319,
+        414
+      ],
+      "ink_pixels": 8867
+    },
+    {
+      "piece": 7,
+      "label": "조각 7",
+      "en": "Puzzle piece 7",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/07-piece-7.png",
+      "bbox": [
+        910,
+        61,
+        1269,
+        159
+      ],
+      "ink_pixels": 5089
+    },
+    {
+      "piece": 8,
+      "label": "조각 8",
+      "en": "Puzzle piece 8",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/08-piece-8.png",
+      "bbox": [
+        904,
+        166,
+        1210,
+        318
+      ],
+      "ink_pixels": 14119
+    },
+    {
+      "piece": 9,
+      "label": "조각 9",
+      "en": "Puzzle piece 9",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/09-piece-9.png",
+      "bbox": [
+        442,
+        0,
+        1194,
+        29
+      ],
+      "ink_pixels": 2316
+    },
+    {
+      "piece": 10,
+      "label": "조각 10",
+      "en": "Puzzle piece 10",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/10-piece-10.png",
+      "bbox": [
+        0,
+        0,
+        486,
+        29
+      ],
+      "ink_pixels": 1380
+    },
+    {
+      "piece": 11,
+      "label": "조각 11",
+      "en": "Puzzle piece 11",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/11-piece-11.png",
+      "bbox": [
+        1757,
+        350,
+        1841,
+        450
+      ],
+      "ink_pixels": 2116
+    },
+    {
+      "piece": 12,
+      "label": "조각 12",
+      "en": "Puzzle piece 12",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/12-piece-12.png",
+      "bbox": [
+        670,
+        430,
+        1594,
+        518
+      ],
+      "ink_pixels": 4043
+    },
+    {
+      "piece": 13,
+      "label": "조각 13",
+      "en": "Puzzle piece 13",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/13-piece-13.png",
+      "bbox": [
+        796,
+        350,
+        1312,
+        490
+      ],
+      "ink_pixels": 4798
+    },
+    {
+      "piece": 14,
+      "label": "조각 14",
+      "en": "Puzzle piece 14",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/14-piece-14.png",
+      "bbox": [
+        1218,
+        38,
+        1691,
+        154
+      ],
+      "ink_pixels": 17596
+    },
+    {
+      "piece": 15,
+      "label": "조각 15",
+      "en": "Puzzle piece 15",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/15-piece-15.png",
+      "bbox": [
+        630,
+        86,
+        1118,
+        230
+      ],
+      "ink_pixels": 15690
+    },
+    {
+      "piece": 16,
+      "label": "조각 16",
+      "en": "Puzzle piece 16",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/16-piece-16.png",
+      "bbox": [
+        1110,
+        182,
+        1620,
+        326
+      ],
+      "ink_pixels": 8910
+    },
+    {
+      "piece": 17,
+      "label": "조각 17",
+      "en": "Puzzle piece 17",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/17-piece-17.png",
+      "bbox": [
+        1398,
+        106,
+        1841,
+        246
+      ],
+      "ink_pixels": 6737
+    },
+    {
+      "piece": 18,
+      "label": "조각 18",
+      "en": "Puzzle piece 18",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/18-piece-18.png",
+      "bbox": [
+        1757,
+        402,
+        1841,
+        494
+      ],
+      "ink_pixels": 1884
+    },
+    {
+      "piece": 19,
+      "label": "조각 19",
+      "en": "Puzzle piece 19",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/19-piece-19.png",
+      "bbox": [
+        1042,
+        90,
+        1454,
+        230
+      ],
+      "ink_pixels": 19972
+    },
+    {
+      "piece": 20,
+      "label": "조각 20",
+      "en": "Puzzle piece 20",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/hard/20-piece-20.png",
+      "bbox": [
+        1150,
+        0,
+        1662,
+        102
+      ],
+      "ink_pixels": 5909
+    }
+  ]
+}
