@@ -1,0 +1,523 @@
+{
+  "number": 14,
+  "ko": "디모르포돈",
+  "name": "Dimorphodon",
+  "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dimorphodon_skeleton.jpg",
+  "difficulties": {
+    "easy": {
+      "piece_count": 6,
+      "assigned_ink_pixels": 31387,
+      "min_piece_pixels": 1738,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/easy/01-piece-1.png",
+          "bbox": [
+            0,
+            181,
+            268,
+            433
+          ],
+          "ink_pixels": 10166
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/easy/02-piece-2.png",
+          "bbox": [
+            440,
+            365,
+            800,
+            423
+          ],
+          "ink_pixels": 2291
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/easy/03-piece-3.png",
+          "bbox": [
+            161,
+            0,
+            351,
+            238
+          ],
+          "ink_pixels": 1738
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/easy/04-piece-4.png",
+          "bbox": [
+            89,
+            422,
+            521,
+            549
+          ],
+          "ink_pixels": 3631
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/easy/05-piece-5.png",
+          "bbox": [
+            410,
+            134,
+            671,
+            269
+          ],
+          "ink_pixels": 4223
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/easy/06-piece-6.png",
+          "bbox": [
+            176,
+            308,
+            484,
+            472
+          ],
+          "ink_pixels": 9338
+        }
+      ]
+    },
+    "normal": {
+      "piece_count": 12,
+      "assigned_ink_pixels": 31387,
+      "min_piece_pixels": 402,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/01-piece-1.png",
+          "bbox": [
+            118,
+            253,
+            312,
+            409
+          ],
+          "ink_pixels": 5917
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/02-piece-2.png",
+          "bbox": [
+            236,
+            0,
+            351,
+            92
+          ],
+          "ink_pixels": 402
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/03-piece-3.png",
+          "bbox": [
+            593,
+            366,
+            800,
+            419
+          ],
+          "ink_pixels": 1008
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/04-piece-4.png",
+          "bbox": [
+            338,
+            442,
+            521,
+            549
+          ],
+          "ink_pixels": 1520
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/05-piece-5.png",
+          "bbox": [
+            410,
+            134,
+            671,
+            269
+          ],
+          "ink_pixels": 4223
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/06-piece-6.png",
+          "bbox": [
+            0,
+            123,
+            247,
+            252
+          ],
+          "ink_pixels": 1021
+        },
+        {
+          "piece": 7,
+          "label": "조각 7",
+          "en": "Puzzle piece 7",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/07-piece-7.png",
+          "bbox": [
+            388,
+            365,
+            637,
+            428
+          ],
+          "ink_pixels": 1842
+        },
+        {
+          "piece": 8,
+          "label": "조각 8",
+          "en": "Puzzle piece 8",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/08-piece-8.png",
+          "bbox": [
+            89,
+            443,
+            397,
+            549
+          ],
+          "ink_pixels": 1484
+        },
+        {
+          "piece": 9,
+          "label": "조각 9",
+          "en": "Puzzle piece 9",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/09-piece-9.png",
+          "bbox": [
+            21,
+            208,
+            258,
+            322
+          ],
+          "ink_pixels": 3293
+        },
+        {
+          "piece": 10,
+          "label": "조각 10",
+          "en": "Puzzle piece 10",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/10-piece-10.png",
+          "bbox": [
+            194,
+            48,
+            288,
+            172
+          ],
+          "ink_pixels": 478
+        },
+        {
+          "piece": 11,
+          "label": "조각 11",
+          "en": "Puzzle piece 11",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/11-piece-11.png",
+          "bbox": [
+            198,
+            329,
+            432,
+            492
+          ],
+          "ink_pixels": 6766
+        },
+        {
+          "piece": 12,
+          "label": "조각 12",
+          "en": "Puzzle piece 12",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/normal/12-piece-12.png",
+          "bbox": [
+            0,
+            253,
+            162,
+            433
+          ],
+          "ink_pixels": 3433
+        }
+      ]
+    },
+    "hard": {
+      "piece_count": 20,
+      "assigned_ink_pixels": 31387,
+      "min_piece_pixels": 167,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/01-piece-1.png",
+          "bbox": [
+            106,
+            242,
+            273,
+            382
+          ],
+          "ink_pixels": 4031
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/02-piece-2.png",
+          "bbox": [
+            570,
+            366,
+            800,
+            419
+          ],
+          "ink_pixels": 1177
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/03-piece-3.png",
+          "bbox": [
+            294,
+            442,
+            490,
+            549
+          ],
+          "ink_pixels": 1789
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/04-piece-4.png",
+          "bbox": [
+            271,
+            0,
+            351,
+            54
+          ],
+          "ink_pixels": 167
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/05-piece-5.png",
+          "bbox": [
+            562,
+            138,
+            671,
+            197
+          ],
+          "ink_pixels": 466
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/06-piece-6.png",
+          "bbox": [
+            302,
+            352,
+            506,
+            429
+          ],
+          "ink_pixels": 1918
+        },
+        {
+          "piece": 7,
+          "label": "조각 7",
+          "en": "Puzzle piece 7",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/07-piece-7.png",
+          "bbox": [
+            230,
+            319,
+            350,
+            430
+          ],
+          "ink_pixels": 2597
+        },
+        {
+          "piece": 8,
+          "label": "조각 8",
+          "en": "Puzzle piece 8",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/08-piece-8.png",
+          "bbox": [
+            161,
+            110,
+            252,
+            236
+          ],
+          "ink_pixels": 888
+        },
+        {
+          "piece": 9,
+          "label": "조각 9",
+          "en": "Puzzle piece 9",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/09-piece-9.png",
+          "bbox": [
+            446,
+            138,
+            628,
+            549
+          ],
+          "ink_pixels": 1338
+        },
+        {
+          "piece": 10,
+          "label": "조각 10",
+          "en": "Puzzle piece 10",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/10-piece-10.png",
+          "bbox": [
+            50,
+            266,
+            170,
+            390
+          ],
+          "ink_pixels": 1330
+        },
+        {
+          "piece": 11,
+          "label": "조각 11",
+          "en": "Puzzle piece 11",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/11-piece-11.png",
+          "bbox": [
+            253,
+            366,
+            392,
+            506
+          ],
+          "ink_pixels": 2941
+        },
+        {
+          "piece": 12,
+          "label": "조각 12",
+          "en": "Puzzle piece 12",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/12-piece-12.png",
+          "bbox": [
+            462,
+            365,
+            614,
+            420
+          ],
+          "ink_pixels": 910
+        },
+        {
+          "piece": 13,
+          "label": "조각 13",
+          "en": "Puzzle piece 13",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/13-piece-13.png",
+          "bbox": [
+            410,
+            134,
+            576,
+            254
+          ],
+          "ink_pixels": 1950
+        },
+        {
+          "piece": 14,
+          "label": "조각 14",
+          "en": "Puzzle piece 14",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/14-piece-14.png",
+          "bbox": [
+            482,
+            210,
+            594,
+            269
+          ],
+          "ink_pixels": 592
+        },
+        {
+          "piece": 15,
+          "label": "조각 15",
+          "en": "Puzzle piece 15",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/15-piece-15.png",
+          "bbox": [
+            176,
+            310,
+            294,
+            415
+          ],
+          "ink_pixels": 2722
+        },
+        {
+          "piece": 16,
+          "label": "조각 16",
+          "en": "Puzzle piece 16",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/16-piece-16.png",
+          "bbox": [
+            0,
+            181,
+            162,
+            338
+          ],
+          "ink_pixels": 3580
+        },
+        {
+          "piece": 17,
+          "label": "조각 17",
+          "en": "Puzzle piece 17",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/17-piece-17.png",
+          "bbox": [
+            202,
+            6,
+            320,
+            158
+          ],
+          "ink_pixels": 608
+        },
+        {
+          "piece": 18,
+          "label": "조각 18",
+          "en": "Puzzle piece 18",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/18-piece-18.png",
+          "bbox": [
+            172,
+            186,
+            267,
+            319
+          ],
+          "ink_pixels": 1068
+        },
+        {
+          "piece": 19,
+          "label": "조각 19",
+          "en": "Puzzle piece 19",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/19-piece-19.png",
+          "bbox": [
+            20,
+            339,
+            114,
+            433
+          ],
+          "ink_pixels": 401
+        },
+        {
+          "piece": 20,
+          "label": "조각 20",
+          "en": "Puzzle piece 20",
+          "file": "assets/pieces/artistic-difficulties-v1/14-dimorphodon/hard/20-piece-20.png",
+          "bbox": [
+            89,
+            444,
+            342,
+            549
+          ],
+          "ink_pixels": 914
+        }
+      ]
+    }
+  }
+}
