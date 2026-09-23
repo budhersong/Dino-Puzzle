@@ -1,0 +1,523 @@
+{
+  "number": 13,
+  "ko": "파라사우롤로푸스",
+  "name": "Parasaurolophus",
+  "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Parasaurolophus_reconstructed_skeleton.png",
+  "difficulties": {
+    "easy": {
+      "piece_count": 6,
+      "assigned_ink_pixels": 384707,
+      "min_piece_pixels": 22885,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/easy/01-piece-1.png",
+          "bbox": [
+            273,
+            494,
+            993,
+            814
+          ],
+          "ink_pixels": 24386
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/easy/02-piece-2.png",
+          "bbox": [
+            496,
+            0,
+            1534,
+            253
+          ],
+          "ink_pixels": 52262
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/easy/03-piece-3.png",
+          "bbox": [
+            0,
+            67,
+            976,
+            376
+          ],
+          "ink_pixels": 86137
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/easy/04-piece-4.png",
+          "bbox": [
+            968,
+            48,
+            2200,
+            352
+          ],
+          "ink_pixels": 88568
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/easy/05-piece-5.png",
+          "bbox": [
+            848,
+            470,
+            1625,
+            814
+          ],
+          "ink_pixels": 22885
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/easy/06-piece-6.png",
+          "bbox": [
+            311,
+            224,
+            1354,
+            550
+          ],
+          "ink_pixels": 110469
+        }
+      ]
+    },
+    "normal": {
+      "piece_count": 12,
+      "assigned_ink_pixels": 384707,
+      "min_piece_pixels": 9611,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/01-piece-1.png",
+          "bbox": [
+            264,
+            243,
+            777,
+            517
+          ],
+          "ink_pixels": 39314
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/02-piece-2.png",
+          "bbox": [
+            1213,
+            573,
+            1625,
+            814
+          ],
+          "ink_pixels": 9611
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/03-piece-3.png",
+          "bbox": [
+            1583,
+            91,
+            2200,
+            305
+          ],
+          "ink_pixels": 26526
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/04-piece-4.png",
+          "bbox": [
+            498,
+            0,
+            1402,
+            147
+          ],
+          "ink_pixels": 26313
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/05-piece-5.png",
+          "bbox": [
+            294,
+            468,
+            987,
+            732
+          ],
+          "ink_pixels": 13785
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/06-piece-6.png",
+          "bbox": [
+            703,
+            408,
+            1338,
+            657
+          ],
+          "ink_pixels": 27217
+        },
+        {
+          "piece": 7,
+          "label": "조각 7",
+          "en": "Puzzle piece 7",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/07-piece-7.png",
+          "bbox": [
+            823,
+            193,
+            1460,
+            417
+          ],
+          "ink_pixels": 40383
+        },
+        {
+          "piece": 8,
+          "label": "조각 8",
+          "en": "Puzzle piece 8",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/08-piece-8.png",
+          "bbox": [
+            0,
+            67,
+            628,
+            342
+          ],
+          "ink_pixels": 53092
+        },
+        {
+          "piece": 9,
+          "label": "조각 9",
+          "en": "Puzzle piece 9",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/09-piece-9.png",
+          "bbox": [
+            658,
+            258,
+            1201,
+            492
+          ],
+          "ink_pixels": 41193
+        },
+        {
+          "piece": 10,
+          "label": "조각 10",
+          "en": "Puzzle piece 10",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/10-piece-10.png",
+          "bbox": [
+            273,
+            613,
+            1002,
+            814
+          ],
+          "ink_pixels": 12338
+        },
+        {
+          "piece": 11,
+          "label": "조각 11",
+          "en": "Puzzle piece 11",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/11-piece-11.png",
+          "bbox": [
+            1138,
+            16,
+            1687,
+            302
+          ],
+          "ink_pixels": 49393
+        },
+        {
+          "piece": 12,
+          "label": "조각 12",
+          "en": "Puzzle piece 12",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/normal/12-piece-12.png",
+          "bbox": [
+            468,
+            58,
+            1212,
+            302
+          ],
+          "ink_pixels": 45542
+        }
+      ]
+    },
+    "hard": {
+      "piece_count": 20,
+      "assigned_ink_pixels": 384707,
+      "min_piece_pixels": 4273,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/01-piece-1.png",
+          "bbox": [
+            334,
+            434,
+            700,
+            662
+          ],
+          "ink_pixels": 10428
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/02-piece-2.png",
+          "bbox": [
+            878,
+            0,
+            1523,
+            126
+          ],
+          "ink_pixels": 15684
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/03-piece-3.png",
+          "bbox": [
+            270,
+            70,
+            716,
+            278
+          ],
+          "ink_pixels": 24903
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/04-piece-4.png",
+          "bbox": [
+            1562,
+            130,
+            2200,
+            305
+          ],
+          "ink_pixels": 20156
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/05-piece-5.png",
+          "bbox": [
+            1231,
+            666,
+            1625,
+            814
+          ],
+          "ink_pixels": 6031
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/06-piece-6.png",
+          "bbox": [
+            950,
+            318,
+            1251,
+            510
+          ],
+          "ink_pixels": 17626
+        },
+        {
+          "piece": 7,
+          "label": "조각 7",
+          "en": "Puzzle piece 7",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/07-piece-7.png",
+          "bbox": [
+            898,
+            46,
+            1426,
+            254
+          ],
+          "ink_pixels": 17083
+        },
+        {
+          "piece": 8,
+          "label": "조각 8",
+          "en": "Puzzle piece 8",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/08-piece-8.png",
+          "bbox": [
+            832,
+            454,
+            1328,
+            610
+          ],
+          "ink_pixels": 14467
+        },
+        {
+          "piece": 9,
+          "label": "조각 9",
+          "en": "Puzzle piece 9",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/09-piece-9.png",
+          "bbox": [
+            129,
+            22,
+            622,
+            170
+          ],
+          "ink_pixels": 4273
+        },
+        {
+          "piece": 10,
+          "label": "조각 10",
+          "en": "Puzzle piece 10",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/10-piece-10.png",
+          "bbox": [
+            1210,
+            46,
+            1826,
+            274
+          ],
+          "ink_pixels": 31500
+        },
+        {
+          "piece": 11,
+          "label": "조각 11",
+          "en": "Puzzle piece 11",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/11-piece-11.png",
+          "bbox": [
+            858,
+            562,
+            1392,
+            750
+          ],
+          "ink_pixels": 9031
+        },
+        {
+          "piece": 12,
+          "label": "조각 12",
+          "en": "Puzzle piece 12",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/12-piece-12.png",
+          "bbox": [
+            439,
+            374,
+            1022,
+            542
+          ],
+          "ink_pixels": 22965
+        },
+        {
+          "piece": 13,
+          "label": "조각 13",
+          "en": "Puzzle piece 13",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/13-piece-13.png",
+          "bbox": [
+            0,
+            198,
+            617,
+            406
+          ],
+          "ink_pixels": 26499
+        },
+        {
+          "piece": 14,
+          "label": "조각 14",
+          "en": "Puzzle piece 14",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/14-piece-14.png",
+          "bbox": [
+            550,
+            0,
+            998,
+            202
+          ],
+          "ink_pixels": 24217
+        },
+        {
+          "piece": 15,
+          "label": "조각 15",
+          "en": "Puzzle piece 15",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/15-piece-15.png",
+          "bbox": [
+            922,
+            182,
+            1606,
+            386
+          ],
+          "ink_pixels": 43049
+        },
+        {
+          "piece": 16,
+          "label": "조각 16",
+          "en": "Puzzle piece 16",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/16-piece-16.png",
+          "bbox": [
+            0,
+            68,
+            326,
+            278
+          ],
+          "ink_pixels": 15404
+        },
+        {
+          "piece": 17,
+          "label": "조각 17",
+          "en": "Puzzle piece 17",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/17-piece-17.png",
+          "bbox": [
+            490,
+            154,
+            1032,
+            342
+          ],
+          "ink_pixels": 28755
+        },
+        {
+          "piece": 18,
+          "label": "조각 18",
+          "en": "Puzzle piece 18",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/18-piece-18.png",
+          "bbox": [
+            273,
+            574,
+            914,
+            773
+          ],
+          "ink_pixels": 6853
+        },
+        {
+          "piece": 19,
+          "label": "조각 19",
+          "en": "Puzzle piece 19",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/19-piece-19.png",
+          "bbox": [
+            640,
+            702,
+            948,
+            814
+          ],
+          "ink_pixels": 6076
+        },
+        {
+          "piece": 20,
+          "label": "조각 20",
+          "en": "Puzzle piece 20",
+          "file": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus/hard/20-piece-20.png",
+          "bbox": [
+            405,
+            286,
+            1310,
+            454
+          ],
+          "ink_pixels": 39707
+        }
+      ]
+    }
+  }
+}
