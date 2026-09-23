@@ -1,0 +1,84 @@
+{
+  "piece_count": 6,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/07-tarchia-tumanovae/easy/01-piece-1.png",
+      "bbox": [
+        0,
+        38,
+        454,
+        180
+      ],
+      "ink_pixels": 14114
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/07-tarchia-tumanovae/easy/02-piece-2.png",
+      "bbox": [
+        427,
+        164,
+        829,
+        275
+      ],
+      "ink_pixels": 5330
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/07-tarchia-tumanovae/easy/03-piece-3.png",
+      "bbox": [
+        475,
+        50,
+        1026,
+        186
+      ],
+      "ink_pixels": 15280
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/07-tarchia-tumanovae/easy/04-piece-4.png",
+      "bbox": [
+        53,
+        0,
+        697,
+        124
+      ],
+      "ink_pixels": 15850
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/07-tarchia-tumanovae/easy/05-piece-5.png",
+      "bbox": [
+        152,
+        80,
+        610,
+        214
+      ],
+      "ink_pixels": 17695
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/07-tarchia-tumanovae/easy/06-piece-6.png",
+      "bbox": [
+        96,
+        152,
+        291,
+        275
+      ],
+      "ink_pixels": 4297
+    }
+  ]
+}
