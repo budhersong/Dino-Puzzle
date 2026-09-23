@@ -1,0 +1,138 @@
+{
+  "difficulties": {
+    "easy": 6,
+    "normal": 12,
+    "hard": 20
+  },
+  "results": [
+    {
+      "number": 1,
+      "ko": "티라노사우루스",
+      "name": "Tyrannosaurus rex",
+      "slug": "01-tyrannosaurus-rex",
+      "outdir": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 2,
+      "ko": "트리케라톱스",
+      "name": "Triceratops",
+      "slug": "02-triceratops",
+      "outdir": "assets/pieces/artistic-difficulties-v1/02-triceratops",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 3,
+      "ko": "프로토케라톱스",
+      "name": "Protoceratops andrewsi",
+      "slug": "03-protoceratops-andrewsi",
+      "outdir": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 4,
+      "ko": "브라키오사우루스",
+      "name": "Brachiosaurus altithorax",
+      "slug": "04-brachiosaurus-altithorax",
+      "outdir": "assets/pieces/artistic-difficulties-v1/04-brachiosaurus-altithorax",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 5,
+      "ko": "에드몬토사우루스",
+      "name": "Edmontosaurus annectens",
+      "slug": "05-edmontosaurus-annectens",
+      "outdir": "assets/pieces/artistic-difficulties-v1/05-edmontosaurus-annectens",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 6,
+      "ko": "프테라노돈",
+      "name": "Pteranodon",
+      "slug": "06-pteranodon",
+      "outdir": "assets/pieces/artistic-difficulties-v1/06-pteranodon",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 7,
+      "ko": "타르키아",
+      "name": "Tarchia tumanovae",
+      "slug": "07-tarchia-tumanovae",
+      "outdir": "assets/pieces/artistic-difficulties-v1/07-tarchia-tumanovae",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 8,
+      "ko": "스피노사우루스",
+      "name": "Spinosaurus aegyptiacus",
+      "slug": "08-spinosaurus-aegyptiacus",
+      "outdir": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 9,
+      "ko": "이구아노돈",
+      "name": "Iguanodon bernissartensis",
+      "slug": "09-iguanodon-bernissartensis",
+      "outdir": "assets/pieces/artistic-difficulties-v1/09-iguanodon-bernissartensis",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 10,
+      "ko": "디플로도쿠스",
+      "name": "Diplodocus carnegii",
+      "slug": "10-diplodocus-carnegii",
+      "outdir": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 11,
+      "ko": "알로사우루스",
+      "name": "Allosaurus jimmadseni",
+      "slug": "11-allosaurus-jimmadseni",
+      "outdir": "assets/pieces/artistic-difficulties-v1/11-allosaurus-jimmadseni",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 12,
+      "ko": "오비랍토르",
+      "name": "Oviraptor philoceratops",
+      "slug": "12-oviraptor-philoceratops",
+      "outdir": "assets/pieces/artistic-difficulties-v1/12-oviraptor-philoceratops",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 13,
+      "ko": "파라사우롤로푸스",
+      "name": "Parasaurolophus",
+      "slug": "13-parasaurolophus",
+      "outdir": "assets/pieces/artistic-difficulties-v1/13-parasaurolophus",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 14,
+      "ko": "디모르포돈",
+      "name": "Dimorphodon",
+      "slug": "14-dimorphodon",
+      "outdir": "assets/pieces/artistic-difficulties-v1/14-dimorphodon",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 15,
+      "ko": "데이노니쿠스",
+      "name": "Deinonychus antirrhopus",
+      "slug": "15-deinonychus-antirrhopus",
+      "outdir": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus",
+      "status": "generated-blob-clusters-v3"
+    },
+    {
+      "number": 16,
+      "ko": "아파토사우루스",
+      "name": "Apatosaurus louisae",
+      "slug": "16-apatosaurus-louisae",
+      "outdir": "assets/pieces/artistic-difficulties-v1/16-apatosaurus-louisae",
+      "status": "generated-blob-clusters-v3"
+    }
+  ],
+  "errors": []
+}

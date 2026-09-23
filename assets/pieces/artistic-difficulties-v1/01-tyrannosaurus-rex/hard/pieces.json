@@ -1,0 +1,266 @@
+{
+  "piece_count": 20,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/01-piece-1.png",
+      "bbox": [
+        330,
+        58,
+        790,
+        226
+      ],
+      "ink_pixels": 17545
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/02-piece-2.png",
+      "bbox": [
+        1128,
+        526,
+        1269,
+        693
+      ],
+      "ink_pixels": 5686
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/03-piece-3.png",
+      "bbox": [
+        1634,
+        143,
+        2006,
+        306
+      ],
+      "ink_pixels": 10428
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/04-piece-4.png",
+      "bbox": [
+        966,
+        414,
+        1226,
+        574
+      ],
+      "ink_pixels": 5910
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/05-piece-5.png",
+      "bbox": [
+        971,
+        59,
+        1387,
+        226
+      ],
+      "ink_pixels": 10153
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/06-piece-6.png",
+      "bbox": [
+        191,
+        0,
+        457,
+        118
+      ],
+      "ink_pixels": 7513
+    },
+    {
+      "piece": 7,
+      "label": "조각 7",
+      "en": "Puzzle piece 7",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/07-piece-7.png",
+      "bbox": [
+        810,
+        210,
+        1306,
+        394
+      ],
+      "ink_pixels": 31381
+    },
+    {
+      "piece": 8,
+      "label": "조각 8",
+      "en": "Puzzle piece 8",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/08-piece-8.png",
+      "bbox": [
+        514,
+        342,
+        1126,
+        490
+      ],
+      "ink_pixels": 16807
+    },
+    {
+      "piece": 9,
+      "label": "조각 9",
+      "en": "Puzzle piece 9",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/09-piece-9.png",
+      "bbox": [
+        1454,
+        137,
+        1742,
+        302
+      ],
+      "ink_pixels": 12057
+    },
+    {
+      "piece": 10,
+      "label": "조각 10",
+      "en": "Puzzle piece 10",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/10-piece-10.png",
+      "bbox": [
+        181,
+        138,
+        551,
+        314
+      ],
+      "ink_pixels": 19394
+    },
+    {
+      "piece": 11,
+      "label": "조각 11",
+      "en": "Puzzle piece 11",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/11-piece-11.png",
+      "bbox": [
+        593,
+        35,
+        1042,
+        146
+      ],
+      "ink_pixels": 5694
+    },
+    {
+      "piece": 12,
+      "label": "조각 12",
+      "en": "Puzzle piece 12",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/12-piece-12.png",
+      "bbox": [
+        667,
+        102,
+        1210,
+        266
+      ],
+      "ink_pixels": 10967
+    },
+    {
+      "piece": 13,
+      "label": "조각 13",
+      "en": "Puzzle piece 13",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/13-piece-13.png",
+      "bbox": [
+        673,
+        442,
+        825,
+        610
+      ],
+      "ink_pixels": 4053
+    },
+    {
+      "piece": 14,
+      "label": "조각 14",
+      "en": "Puzzle piece 14",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/14-piece-14.png",
+      "bbox": [
+        3,
+        38,
+        398,
+        202
+      ],
+      "ink_pixels": 11945
+    },
+    {
+      "piece": 15,
+      "label": "조각 15",
+      "en": "Puzzle piece 15",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/15-piece-15.png",
+      "bbox": [
+        525,
+        562,
+        781,
+        693
+      ],
+      "ink_pixels": 5524
+    },
+    {
+      "piece": 16,
+      "label": "조각 16",
+      "en": "Puzzle piece 16",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/16-piece-16.png",
+      "bbox": [
+        1901,
+        242,
+        2200,
+        456
+      ],
+      "ink_pixels": 5546
+    },
+    {
+      "piece": 17,
+      "label": "조각 17",
+      "en": "Puzzle piece 17",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/17-piece-17.png",
+      "bbox": [
+        426,
+        158,
+        964,
+        318
+      ],
+      "ink_pixels": 27645
+    },
+    {
+      "piece": 18,
+      "label": "조각 18",
+      "en": "Puzzle piece 18",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/18-piece-18.png",
+      "bbox": [
+        1118,
+        130,
+        1514,
+        334
+      ],
+      "ink_pixels": 21945
+    },
+    {
+      "piece": 19,
+      "label": "조각 19",
+      "en": "Puzzle piece 19",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/19-piece-19.png",
+      "bbox": [
+        0,
+        146,
+        262,
+        316
+      ],
+      "ink_pixels": 6671
+    },
+    {
+      "piece": 20,
+      "label": "조각 20",
+      "en": "Puzzle piece 20",
+      "file": "assets/pieces/artistic-difficulties-v1/01-tyrannosaurus-rex/hard/20-piece-20.png",
+      "bbox": [
+        401,
+        262,
+        910,
+        438
+      ],
+      "ink_pixels": 31375
+    }
+  ]
+}
