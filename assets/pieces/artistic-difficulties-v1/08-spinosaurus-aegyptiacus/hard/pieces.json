@@ -1,0 +1,266 @@
+{
+  "piece_count": 20,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/01-piece-1.png",
+      "bbox": [
+        149,
+        292,
+        418,
+        418
+      ],
+      "ink_pixels": 4223
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/02-piece-2.png",
+      "bbox": [
+        612,
+        2,
+        752,
+        142
+      ],
+      "ink_pixels": 569
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/03-piece-3.png",
+      "bbox": [
+        1220,
+        342,
+        1499,
+        482
+      ],
+      "ink_pixels": 1627
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/04-piece-4.png",
+      "bbox": [
+        613,
+        134,
+        909,
+        286
+      ],
+      "ink_pixels": 3050
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/05-piece-5.png",
+      "bbox": [
+        574,
+        258,
+        924,
+        382
+      ],
+      "ink_pixels": 2614
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/06-piece-6.png",
+      "bbox": [
+        562,
+        334,
+        856,
+        470
+      ],
+      "ink_pixels": 2939
+    },
+    {
+      "piece": 7,
+      "label": "조각 7",
+      "en": "Puzzle piece 7",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/07-piece-7.png",
+      "bbox": [
+        338,
+        210,
+        513,
+        438
+      ],
+      "ink_pixels": 2696
+    },
+    {
+      "piece": 8,
+      "label": "조각 8",
+      "en": "Puzzle piece 8",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/08-piece-8.png",
+      "bbox": [
+        2,
+        462,
+        133,
+        552
+      ],
+      "ink_pixels": 757
+    },
+    {
+      "piece": 9,
+      "label": "조각 9",
+      "en": "Puzzle piece 9",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/09-piece-9.png",
+      "bbox": [
+        539,
+        210,
+        863,
+        338
+      ],
+      "ink_pixels": 3179
+    },
+    {
+      "piece": 10,
+      "label": "조각 10",
+      "en": "Puzzle piece 10",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/10-piece-10.png",
+      "bbox": [
+        967,
+        284,
+        1363,
+        402
+      ],
+      "ink_pixels": 3376
+    },
+    {
+      "piece": 11,
+      "label": "조각 11",
+      "en": "Puzzle piece 11",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/11-piece-11.png",
+      "bbox": [
+        468,
+        402,
+        890,
+        559
+      ],
+      "ink_pixels": 3108
+    },
+    {
+      "piece": 12,
+      "label": "조각 12",
+      "en": "Puzzle piece 12",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/12-piece-12.png",
+      "bbox": [
+        463,
+        482,
+        559,
+        617
+      ],
+      "ink_pixels": 1140
+    },
+    {
+      "piece": 13,
+      "label": "조각 13",
+      "en": "Puzzle piece 13",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/13-piece-13.png",
+      "bbox": [
+        552,
+        86,
+        775,
+        210
+      ],
+      "ink_pixels": 943
+    },
+    {
+      "piece": 14,
+      "label": "조각 14",
+      "en": "Puzzle piece 14",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/14-piece-14.png",
+      "bbox": [
+        1190,
+        438,
+        1500,
+        549
+      ],
+      "ink_pixels": 1677
+    },
+    {
+      "piece": 15,
+      "label": "조각 15",
+      "en": "Puzzle piece 15",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/15-piece-15.png",
+      "bbox": [
+        825,
+        222,
+        1082,
+        362
+      ],
+      "ink_pixels": 3409
+    },
+    {
+      "piece": 16,
+      "label": "조각 16",
+      "en": "Puzzle piece 16",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/16-piece-16.png",
+      "bbox": [
+        386,
+        330,
+        614,
+        489
+      ],
+      "ink_pixels": 2721
+    },
+    {
+      "piece": 17,
+      "label": "조각 17",
+      "en": "Puzzle piece 17",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/17-piece-17.png",
+      "bbox": [
+        374,
+        138,
+        658,
+        278
+      ],
+      "ink_pixels": 2005
+    },
+    {
+      "piece": 18,
+      "label": "조각 18",
+      "en": "Puzzle piece 18",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/18-piece-18.png",
+      "bbox": [
+        404,
+        57,
+        711,
+        182
+      ],
+      "ink_pixels": 1482
+    },
+    {
+      "piece": 19,
+      "label": "조각 19",
+      "en": "Puzzle piece 19",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/19-piece-19.png",
+      "bbox": [
+        21,
+        346,
+        250,
+        514
+      ],
+      "ink_pixels": 3806
+    },
+    {
+      "piece": 20,
+      "label": "조각 20",
+      "en": "Puzzle piece 20",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/hard/20-piece-20.png",
+      "bbox": [
+        370,
+        228,
+        622,
+        382
+      ],
+      "ink_pixels": 3717
+    }
+  ]
+}

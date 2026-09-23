@@ -1,0 +1,84 @@
+{
+  "piece_count": 6,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/easy/01-piece-1.png",
+      "bbox": [
+        120,
+        236,
+        712,
+        442
+      ],
+      "ink_pixels": 10486
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/easy/02-piece-2.png",
+      "bbox": [
+        374,
+        2,
+        815,
+        267
+      ],
+      "ink_pixels": 5645
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/easy/03-piece-3.png",
+      "bbox": [
+        938,
+        278,
+        1500,
+        549
+      ],
+      "ink_pixels": 6888
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/easy/04-piece-4.png",
+      "bbox": [
+        2,
+        362,
+        233,
+        552
+      ],
+      "ink_pixels": 4115
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/easy/05-piece-5.png",
+      "bbox": [
+        380,
+        188,
+        1078,
+        394
+      ],
+      "ink_pixels": 13274
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/08-spinosaurus-aegyptiacus/easy/06-piece-6.png",
+      "bbox": [
+        393,
+        350,
+        890,
+        617
+      ],
+      "ink_pixels": 8630
+    }
+  ]
+}
