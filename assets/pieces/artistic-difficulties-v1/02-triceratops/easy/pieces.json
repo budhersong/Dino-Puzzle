@@ -1,0 +1,84 @@
+{
+  "piece_count": 6,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/02-triceratops/easy/01-piece-1.png",
+      "bbox": [
+        74,
+        140,
+        472,
+        322
+      ],
+      "ink_pixels": 13371
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/02-triceratops/easy/02-piece-2.png",
+      "bbox": [
+        560,
+        230,
+        1003,
+        417
+      ],
+      "ink_pixels": 9617
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/02-triceratops/easy/03-piece-3.png",
+      "bbox": [
+        380,
+        15,
+        772,
+        184
+      ],
+      "ink_pixels": 14913
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/02-triceratops/easy/04-piece-4.png",
+      "bbox": [
+        416,
+        128,
+        861,
+        298
+      ],
+      "ink_pixels": 23673
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/02-triceratops/easy/05-piece-5.png",
+      "bbox": [
+        2,
+        0,
+        460,
+        190
+      ],
+      "ink_pixels": 10285
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/02-triceratops/easy/06-piece-6.png",
+      "bbox": [
+        102,
+        236,
+        604,
+        417
+      ],
+      "ink_pixels": 8388
+    }
+  ]
+}
