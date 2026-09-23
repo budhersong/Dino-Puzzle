@@ -1,0 +1,84 @@
+{
+  "piece_count": 6,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/12-oviraptor-philoceratops/easy/01-piece-1.png",
+      "bbox": [
+        108,
+        0,
+        736,
+        306
+      ],
+      "ink_pixels": 60147
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/12-oviraptor-philoceratops/easy/02-piece-2.png",
+      "bbox": [
+        1469,
+        788,
+        2200,
+        1182
+      ],
+      "ink_pixels": 11039
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/12-oviraptor-philoceratops/easy/03-piece-3.png",
+      "bbox": [
+        0,
+        848,
+        1084,
+        1182
+      ],
+      "ink_pixels": 22278
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/12-oviraptor-philoceratops/easy/04-piece-4.png",
+      "bbox": [
+        1238,
+        155,
+        2148,
+        478
+      ],
+      "ink_pixels": 92941
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/12-oviraptor-philoceratops/easy/05-piece-5.png",
+      "bbox": [
+        857,
+        422,
+        1564,
+        902
+      ],
+      "ink_pixels": 99642
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/12-oviraptor-philoceratops/easy/06-piece-6.png",
+      "bbox": [
+        530,
+        140,
+        1294,
+        502
+      ],
+      "ink_pixels": 141616
+    }
+  ]
+}
