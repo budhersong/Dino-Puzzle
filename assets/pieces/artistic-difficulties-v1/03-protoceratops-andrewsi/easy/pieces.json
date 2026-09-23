@@ -1,0 +1,84 @@
+{
+  "piece_count": 6,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/easy/01-piece-1.png",
+      "bbox": [
+        2,
+        266,
+        766,
+        664
+      ],
+      "ink_pixels": 66816
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/easy/02-piece-2.png",
+      "bbox": [
+        692,
+        99,
+        1420,
+        437
+      ],
+      "ink_pixels": 85887
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/easy/03-piece-3.png",
+      "bbox": [
+        433,
+        602,
+        1437,
+        910
+      ],
+      "ink_pixels": 48105
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/easy/04-piece-4.png",
+      "bbox": [
+        102,
+        2,
+        1090,
+        370
+      ],
+      "ink_pixels": 65944
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/easy/05-piece-5.png",
+      "bbox": [
+        1340,
+        153,
+        2008,
+        478
+      ],
+      "ink_pixels": 50902
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/easy/06-piece-6.png",
+      "bbox": [
+        573,
+        344,
+        1330,
+        646
+      ],
+      "ink_pixels": 81727
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "piece_count": 12,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/01-piece-1.png",
+      "bbox": [
+        2,
+        358,
+        617,
+        664
+      ],
+      "ink_pixels": 24722
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/02-piece-2.png",
+      "bbox": [
+        974,
+        144,
+        1795,
+        377
+      ],
+      "ink_pixels": 79035
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/03-piece-3.png",
+      "bbox": [
+        898,
+        653,
+        1437,
+        910
+      ],
+      "ink_pixels": 16260
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/04-piece-4.png",
+      "bbox": [
+        275,
+        2,
+        652,
+        247
+      ],
+      "ink_pixels": 13828
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/05-piece-5.png",
+      "bbox": [
+        1553,
+        273,
+        2008,
+        478
+      ],
+      "ink_pixels": 15068
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/06-piece-6.png",
+      "bbox": [
+        834,
+        468,
+        1332,
+        707
+      ],
+      "ink_pixels": 21128
+    },
+    {
+      "piece": 7,
+      "label": "조각 7",
+      "en": "Puzzle piece 7",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/07-piece-7.png",
+      "bbox": [
+        39,
+        298,
+        807,
+        497
+      ],
+      "ink_pixels": 41002
+    },
+    {
+      "piece": 8,
+      "label": "조각 8",
+      "en": "Puzzle piece 8",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/08-piece-8.png",
+      "bbox": [
+        433,
+        653,
+        957,
+        910
+      ],
+      "ink_pixels": 20852
+    },
+    {
+      "piece": 9,
+      "label": "조각 9",
+      "en": "Puzzle piece 9",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/09-piece-9.png",
+      "bbox": [
+        753,
+        283,
+        1424,
+        517
+      ],
+      "ink_pixels": 63063
+    },
+    {
+      "piece": 10,
+      "label": "조각 10",
+      "en": "Puzzle piece 10",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/10-piece-10.png",
+      "bbox": [
+        42,
+        168,
+        767,
+        397
+      ],
+      "ink_pixels": 37174
+    },
+    {
+      "piece": 11,
+      "label": "조각 11",
+      "en": "Puzzle piece 11",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/11-piece-11.png",
+      "bbox": [
+        603,
+        81,
+        1267,
+        347
+      ],
+      "ink_pixels": 34347
+    },
+    {
+      "piece": 12,
+      "label": "조각 12",
+      "en": "Puzzle piece 12",
+      "file": "assets/pieces/artistic-difficulties-v1/03-protoceratops-andrewsi/normal/12-piece-12.png",
+      "bbox": [
+        566,
+        433,
+        1012,
+        702
+      ],
+      "ink_pixels": 32902
+    }
+  ]
+}
