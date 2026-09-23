@@ -1,0 +1,523 @@
+{
+  "number": 6,
+  "ko": "프테라노돈",
+  "name": "Pteranodon",
+  "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pteranodon_skeletal.jpg",
+  "difficulties": {
+    "easy": {
+      "piece_count": 6,
+      "assigned_ink_pixels": 18570,
+      "min_piece_pixels": 1325,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/easy/01-piece-1.png",
+          "bbox": [
+            0,
+            752,
+            328,
+            884
+          ],
+          "ink_pixels": 3073
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/easy/02-piece-2.png",
+          "bbox": [
+            488,
+            0,
+            661,
+            226
+          ],
+          "ink_pixels": 1326
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/easy/03-piece-3.png",
+          "bbox": [
+            450,
+            776,
+            837,
+            921
+          ],
+          "ink_pixels": 5713
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/easy/04-piece-4.png",
+          "bbox": [
+            403,
+            392,
+            480,
+            676
+          ],
+          "ink_pixels": 1628
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/easy/05-piece-5.png",
+          "bbox": [
+            266,
+            632,
+            550,
+            877
+          ],
+          "ink_pixels": 5505
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/easy/06-piece-6.png",
+          "bbox": [
+            427,
+            179,
+            539,
+            436
+          ],
+          "ink_pixels": 1325
+        }
+      ]
+    },
+    "normal": {
+      "piece_count": 12,
+      "assigned_ink_pixels": 18570,
+      "min_piece_pixels": 488,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/01-piece-1.png",
+          "bbox": [
+            113,
+            751,
+            322,
+            884
+          ],
+          "ink_pixels": 2017
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/02-piece-2.png",
+          "bbox": [
+            554,
+            0,
+            661,
+            107
+          ],
+          "ink_pixels": 488
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/03-piece-3.png",
+          "bbox": [
+            608,
+            838,
+            837,
+            921
+          ],
+          "ink_pixels": 1415
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/04-piece-4.png",
+          "bbox": [
+            403,
+            398,
+            479,
+            677
+          ],
+          "ink_pixels": 1598
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/05-piece-5.png",
+          "bbox": [
+            343,
+            726,
+            551,
+            877
+          ],
+          "ink_pixels": 2539
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/06-piece-6.png",
+          "bbox": [
+            426,
+            218,
+            522,
+            442
+          ],
+          "ink_pixels": 1102
+        },
+        {
+          "piece": 7,
+          "label": "조각 7",
+          "en": "Puzzle piece 7",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/07-piece-7.png",
+          "bbox": [
+            273,
+            633,
+            507,
+            822
+          ],
+          "ink_pixels": 2504
+        },
+        {
+          "piece": 8,
+          "label": "조각 8",
+          "en": "Puzzle piece 8",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/08-piece-8.png",
+          "bbox": [
+            268,
+            748,
+            392,
+            852
+          ],
+          "ink_pixels": 689
+        },
+        {
+          "piece": 9,
+          "label": "조각 9",
+          "en": "Puzzle piece 9",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/09-piece-9.png",
+          "bbox": [
+            503,
+            816,
+            652,
+            921
+          ],
+          "ink_pixels": 1656
+        },
+        {
+          "piece": 10,
+          "label": "조각 10",
+          "en": "Puzzle piece 10",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/10-piece-10.png",
+          "bbox": [
+            450,
+            806,
+            577,
+            921
+          ],
+          "ink_pixels": 2401
+        },
+        {
+          "piece": 11,
+          "label": "조각 11",
+          "en": "Puzzle piece 11",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/11-piece-11.png",
+          "bbox": [
+            0,
+            797,
+            162,
+            876
+          ],
+          "ink_pixels": 1064
+        },
+        {
+          "piece": 12,
+          "label": "조각 12",
+          "en": "Puzzle piece 12",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/normal/12-piece-12.png",
+          "bbox": [
+            472,
+            58,
+            602,
+            268
+          ],
+          "ink_pixels": 1097
+        }
+      ]
+    },
+    "hard": {
+      "piece_count": 20,
+      "assigned_ink_pixels": 18570,
+      "min_piece_pixels": 240,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/01-piece-1.png",
+          "bbox": [
+            82,
+            769,
+            278,
+            884
+          ],
+          "ink_pixels": 1531
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/02-piece-2.png",
+          "bbox": [
+            558,
+            0,
+            661,
+            98
+          ],
+          "ink_pixels": 445
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/03-piece-3.png",
+          "bbox": [
+            342,
+            766,
+            506,
+            898
+          ],
+          "ink_pixels": 1631
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/04-piece-4.png",
+          "bbox": [
+            427,
+            274,
+            506,
+            438
+          ],
+          "ink_pixels": 724
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/05-piece-5.png",
+          "bbox": [
+            407,
+            642,
+            506,
+            781
+          ],
+          "ink_pixels": 1108
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/06-piece-6.png",
+          "bbox": [
+            452,
+            194,
+            532,
+            318
+          ],
+          "ink_pixels": 491
+        },
+        {
+          "piece": 7,
+          "label": "조각 7",
+          "en": "Puzzle piece 7",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/07-piece-7.png",
+          "bbox": [
+            403,
+            423,
+            474,
+            602
+          ],
+          "ink_pixels": 951
+        },
+        {
+          "piece": 8,
+          "label": "조각 8",
+          "en": "Puzzle piece 8",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/08-piece-8.png",
+          "bbox": [
+            450,
+            853,
+            544,
+            921
+          ],
+          "ink_pixels": 494
+        },
+        {
+          "piece": 9,
+          "label": "조각 9",
+          "en": "Puzzle piece 9",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/09-piece-9.png",
+          "bbox": [
+            566,
+            828,
+            694,
+            921
+          ],
+          "ink_pixels": 888
+        },
+        {
+          "piece": 10,
+          "label": "조각 10",
+          "en": "Puzzle piece 10",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/10-piece-10.png",
+          "bbox": [
+            485,
+            817,
+            622,
+            921
+          ],
+          "ink_pixels": 1520
+        },
+        {
+          "piece": 11,
+          "label": "조각 11",
+          "en": "Puzzle piece 11",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/11-piece-11.png",
+          "bbox": [
+            289,
+            686,
+            407,
+            821
+          ],
+          "ink_pixels": 1092
+        },
+        {
+          "piece": 12,
+          "label": "조각 12",
+          "en": "Puzzle piece 12",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/12-piece-12.png",
+          "bbox": [
+            482,
+            53,
+            609,
+            242
+          ],
+          "ink_pixels": 981
+        },
+        {
+          "piece": 13,
+          "label": "조각 13",
+          "en": "Puzzle piece 13",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/13-piece-13.png",
+          "bbox": [
+            473,
+            762,
+            582,
+            902
+          ],
+          "ink_pixels": 1409
+        },
+        {
+          "piece": 14,
+          "label": "조각 14",
+          "en": "Puzzle piece 14",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/14-piece-14.png",
+          "bbox": [
+            222,
+            738,
+            346,
+            870
+          ],
+          "ink_pixels": 1070
+        },
+        {
+          "piece": 15,
+          "label": "조각 15",
+          "en": "Puzzle piece 15",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/15-piece-15.png",
+          "bbox": [
+            411,
+            554,
+            467,
+            690
+          ],
+          "ink_pixels": 511
+        },
+        {
+          "piece": 16,
+          "label": "조각 16",
+          "en": "Puzzle piece 16",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/16-piece-16.png",
+          "bbox": [
+            422,
+            386,
+            481,
+            483
+          ],
+          "ink_pixels": 240
+        },
+        {
+          "piece": 17,
+          "label": "조각 17",
+          "en": "Puzzle piece 17",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/17-piece-17.png",
+          "bbox": [
+            234,
+            750,
+            390,
+            872
+          ],
+          "ink_pixels": 652
+        },
+        {
+          "piece": 18,
+          "label": "조각 18",
+          "en": "Puzzle piece 18",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/18-piece-18.png",
+          "bbox": [
+            454,
+            725,
+            546,
+            898
+          ],
+          "ink_pixels": 1053
+        },
+        {
+          "piece": 19,
+          "label": "조각 19",
+          "en": "Puzzle piece 19",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/19-piece-19.png",
+          "bbox": [
+            646,
+            865,
+            837,
+            921
+          ],
+          "ink_pixels": 1012
+        },
+        {
+          "piece": 20,
+          "label": "조각 20",
+          "en": "Puzzle piece 20",
+          "file": "assets/pieces/artistic-difficulties-v1/06-pteranodon/hard/20-piece-20.png",
+          "bbox": [
+            0,
+            803,
+            130,
+            873
+          ],
+          "ink_pixels": 767
+        }
+      ]
+    }
+  }
+}
