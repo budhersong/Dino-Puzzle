@@ -1,0 +1,84 @@
+{
+  "piece_count": 6,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/16-apatosaurus-louisae/easy/01-piece-1.png",
+      "bbox": [
+        0,
+        422,
+        1018,
+        635
+      ],
+      "ink_pixels": 4364
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/16-apatosaurus-louisae/easy/02-piece-2.png",
+      "bbox": [
+        1653,
+        0,
+        2175,
+        244
+      ],
+      "ink_pixels": 27274
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/16-apatosaurus-louisae/easy/03-piece-3.png",
+      "bbox": [
+        1092,
+        296,
+        2165,
+        514
+      ],
+      "ink_pixels": 54916
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/16-apatosaurus-louisae/easy/04-piece-4.png",
+      "bbox": [
+        85,
+        248,
+        1270,
+        466
+      ],
+      "ink_pixels": 43922
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/16-apatosaurus-louisae/easy/05-piece-5.png",
+      "bbox": [
+        974,
+        452,
+        2200,
+        635
+      ],
+      "ink_pixels": 26711
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/16-apatosaurus-louisae/easy/06-piece-6.png",
+      "bbox": [
+        1017,
+        144,
+        2165,
+        352
+      ],
+      "ink_pixels": 76223
+    }
+  ]
+}
