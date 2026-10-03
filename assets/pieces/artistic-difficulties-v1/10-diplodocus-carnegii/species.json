@@ -1,0 +1,523 @@
+{
+  "number": 10,
+  "ko": "디플로도쿠스",
+  "name": "Diplodocus carnegii",
+  "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Diplodocus_carnegii_Skeletal.svg",
+  "difficulties": {
+    "easy": {
+      "piece_count": 6,
+      "assigned_ink_pixels": 191632,
+      "min_piece_pixels": 3343,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/easy/01-piece-1.png",
+          "bbox": [
+            272,
+            140,
+            1234,
+            292
+          ],
+          "ink_pixels": 44027
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/easy/02-piece-2.png",
+          "bbox": [
+            1721,
+            0,
+            2138,
+            172
+          ],
+          "ink_pixels": 16644
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/easy/03-piece-3.png",
+          "bbox": [
+            1126,
+            306,
+            2039,
+            482
+          ],
+          "ink_pixels": 19340
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/easy/04-piece-4.png",
+          "bbox": [
+            84,
+            248,
+            853,
+            407
+          ],
+          "ink_pixels": 3343
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/easy/05-piece-5.png",
+          "bbox": [
+            1045,
+            98,
+            1895,
+            262
+          ],
+          "ink_pixels": 62574
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/easy/06-piece-6.png",
+          "bbox": [
+            1004,
+            200,
+            1665,
+            364
+          ],
+          "ink_pixels": 45704
+        }
+      ]
+    },
+    "normal": {
+      "piece_count": 12,
+      "assigned_ink_pixels": 191632,
+      "min_piece_pixels": 2025,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/01-piece-1.png",
+          "bbox": [
+            423,
+            160,
+            1002,
+            279
+          ],
+          "ink_pixels": 20227
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/02-piece-2.png",
+          "bbox": [
+            1858,
+            0,
+            2138,
+            97
+          ],
+          "ink_pixels": 7144
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/03-piece-3.png",
+          "bbox": [
+            1126,
+            333,
+            1560,
+            482
+          ],
+          "ink_pixels": 12677
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/04-piece-4.png",
+          "bbox": [
+            1443,
+            108,
+            1911,
+            257
+          ],
+          "ink_pixels": 22882
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/05-piece-5.png",
+          "bbox": [
+            84,
+            335,
+            737,
+            407
+          ],
+          "ink_pixels": 2025
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/06-piece-6.png",
+          "bbox": [
+            1651,
+            306,
+            2039,
+            407
+          ],
+          "ink_pixels": 2428
+        },
+        {
+          "piece": 7,
+          "label": "조각 7",
+          "en": "Puzzle piece 7",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/07-piece-7.png",
+          "bbox": [
+            1013,
+            223,
+            1637,
+            387
+          ],
+          "ink_pixels": 37851
+        },
+        {
+          "piece": 8,
+          "label": "조각 8",
+          "en": "Puzzle piece 8",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/08-piece-8.png",
+          "bbox": [
+            931,
+            98,
+            1592,
+            202
+          ],
+          "ink_pixels": 21266
+        },
+        {
+          "piece": 9,
+          "label": "조각 9",
+          "en": "Puzzle piece 9",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/09-piece-9.png",
+          "bbox": [
+            828,
+            153,
+            1352,
+            285
+          ],
+          "ink_pixels": 33066
+        },
+        {
+          "piece": 10,
+          "label": "조각 10",
+          "en": "Puzzle piece 10",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/10-piece-10.png",
+          "bbox": [
+            1728,
+            43,
+            2138,
+            162
+          ],
+          "ink_pixels": 8377
+        },
+        {
+          "piece": 11,
+          "label": "조각 11",
+          "en": "Puzzle piece 11",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/11-piece-11.png",
+          "bbox": [
+            159,
+            203,
+            477,
+            348
+          ],
+          "ink_pixels": 2867
+        },
+        {
+          "piece": 12,
+          "label": "조각 12",
+          "en": "Puzzle piece 12",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/normal/12-piece-12.png",
+          "bbox": [
+            693,
+            158,
+            1691,
+            407
+          ],
+          "ink_pixels": 20822
+        }
+      ]
+    },
+    "hard": {
+      "piece_count": 20,
+      "assigned_ink_pixels": 191632,
+      "min_piece_pixels": 1837,
+      "pieces": [
+        {
+          "piece": 1,
+          "label": "조각 1",
+          "en": "Puzzle piece 1",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/01-piece-1.png",
+          "bbox": [
+            374,
+            174,
+            806,
+            271
+          ],
+          "ink_pixels": 9961
+        },
+        {
+          "piece": 2,
+          "label": "조각 2",
+          "en": "Puzzle piece 2",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/02-piece-2.png",
+          "bbox": [
+            1856,
+            0,
+            2138,
+            98
+          ],
+          "ink_pixels": 7122
+        },
+        {
+          "piece": 3,
+          "label": "조각 3",
+          "en": "Puzzle piece 3",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/03-piece-3.png",
+          "bbox": [
+            1126,
+            370,
+            1286,
+            482
+          ],
+          "ink_pixels": 5483
+        },
+        {
+          "piece": 4,
+          "label": "조각 4",
+          "en": "Puzzle piece 4",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/04-piece-4.png",
+          "bbox": [
+            1474,
+            106,
+            1911,
+            238
+          ],
+          "ink_pixels": 21582
+        },
+        {
+          "piece": 5,
+          "label": "조각 5",
+          "en": "Puzzle piece 5",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/05-piece-5.png",
+          "bbox": [
+            84,
+            335,
+            738,
+            407
+          ],
+          "ink_pixels": 2025
+        },
+        {
+          "piece": 6,
+          "label": "조각 6",
+          "en": "Puzzle piece 6",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/06-piece-6.png",
+          "bbox": [
+            1879,
+            306,
+            2039,
+            377
+          ],
+          "ink_pixels": 1837
+        },
+        {
+          "piece": 7,
+          "label": "조각 7",
+          "en": "Puzzle piece 7",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/07-piece-7.png",
+          "bbox": [
+            1165,
+            322,
+            1291,
+            414
+          ],
+          "ink_pixels": 3088
+        },
+        {
+          "piece": 8,
+          "label": "조각 8",
+          "en": "Puzzle piece 8",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/08-piece-8.png",
+          "bbox": [
+            920,
+            106,
+            1314,
+            210
+          ],
+          "ink_pixels": 10392
+        },
+        {
+          "piece": 9,
+          "label": "조각 9",
+          "en": "Puzzle piece 9",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/09-piece-9.png",
+          "bbox": [
+            798,
+            158,
+            1078,
+            283
+          ],
+          "ink_pixels": 13940
+        },
+        {
+          "piece": 10,
+          "label": "조각 10",
+          "en": "Puzzle piece 10",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/10-piece-10.png",
+          "bbox": [
+            1735,
+            42,
+            2138,
+            162
+          ],
+          "ink_pixels": 8181
+        },
+        {
+          "piece": 11,
+          "label": "조각 11",
+          "en": "Puzzle piece 11",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/11-piece-11.png",
+          "bbox": [
+            159,
+            215,
+            430,
+            348
+          ],
+          "ink_pixels": 2035
+        },
+        {
+          "piece": 12,
+          "label": "조각 12",
+          "en": "Puzzle piece 12",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/12-piece-12.png",
+          "bbox": [
+            690,
+            162,
+            1190,
+            407
+          ],
+          "ink_pixels": 9117
+        },
+        {
+          "piece": 13,
+          "label": "조각 13",
+          "en": "Puzzle piece 13",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/13-piece-13.png",
+          "bbox": [
+            1449,
+            326,
+            1950,
+            414
+          ],
+          "ink_pixels": 2382
+        },
+        {
+          "piece": 14,
+          "label": "조각 14",
+          "en": "Puzzle piece 14",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/14-piece-14.png",
+          "bbox": [
+            1448,
+            366,
+            1560,
+            482
+          ],
+          "ink_pixels": 3364
+        },
+        {
+          "piece": 15,
+          "label": "조각 15",
+          "en": "Puzzle piece 15",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/15-piece-15.png",
+          "bbox": [
+            1158,
+            274,
+            1569,
+            378
+          ],
+          "ink_pixels": 10618
+        },
+        {
+          "piece": 16,
+          "label": "조각 16",
+          "en": "Puzzle piece 16",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/16-piece-16.png",
+          "bbox": [
+            1238,
+            98,
+            1550,
+            210
+          ],
+          "ink_pixels": 12999
+        },
+        {
+          "piece": 17,
+          "label": "조각 17",
+          "en": "Puzzle piece 17",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/17-piece-17.png",
+          "bbox": [
+            622,
+            154,
+            966,
+            271
+          ],
+          "ink_pixels": 8838
+        },
+        {
+          "piece": 18,
+          "label": "조각 18",
+          "en": "Puzzle piece 18",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/18-piece-18.png",
+          "bbox": [
+            1334,
+            166,
+            1761,
+            290
+          ],
+          "ink_pixels": 18877
+        },
+        {
+          "piece": 19,
+          "label": "조각 19",
+          "en": "Puzzle piece 19",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/19-piece-19.png",
+          "bbox": [
+            1064,
+            234,
+            1578,
+            346
+          ],
+          "ink_pixels": 21951
+        },
+        {
+          "piece": 20,
+          "label": "조각 20",
+          "en": "Puzzle piece 20",
+          "file": "assets/pieces/artistic-difficulties-v1/10-diplodocus-carnegii/hard/20-piece-20.png",
+          "bbox": [
+            1114,
+            154,
+            1418,
+            286
+          ],
+          "ink_pixels": 17840
+        }
+      ]
+    }
+  }
+}
