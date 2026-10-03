@@ -1,0 +1,84 @@
+{
+  "piece_count": 6,
+  "method": "compact visible-pixel blob clustering; no stripes/dots; generic labels only",
+  "pieces": [
+    {
+      "piece": 1,
+      "label": "조각 1",
+      "en": "Puzzle piece 1",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/easy/01-piece-1.png",
+      "bbox": [
+        0,
+        57,
+        724,
+        158
+      ],
+      "ink_pixels": 14687
+    },
+    {
+      "piece": 2,
+      "label": "조각 2",
+      "en": "Puzzle piece 2",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/easy/02-piece-2.png",
+      "bbox": [
+        796,
+        302,
+        1319,
+        470
+      ],
+      "ink_pixels": 9405
+    },
+    {
+      "piece": 3,
+      "label": "조각 3",
+      "en": "Puzzle piece 3",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/easy/03-piece-3.png",
+      "bbox": [
+        902,
+        116,
+        1620,
+        265
+      ],
+      "ink_pixels": 25739
+    },
+    {
+      "piece": 4,
+      "label": "조각 4",
+      "en": "Puzzle piece 4",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/easy/04-piece-4.png",
+      "bbox": [
+        1076,
+        10,
+        1662,
+        178
+      ],
+      "ink_pixels": 33559
+    },
+    {
+      "piece": 5,
+      "label": "조각 5",
+      "en": "Puzzle piece 5",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/easy/05-piece-5.png",
+      "bbox": [
+        919,
+        194,
+        1316,
+        352
+      ],
+      "ink_pixels": 18493
+    },
+    {
+      "piece": 6,
+      "label": "조각 6",
+      "en": "Puzzle piece 6",
+      "file": "assets/pieces/artistic-difficulties-v1/15-deinonychus-antirrhopus/easy/06-piece-6.png",
+      "bbox": [
+        620,
+        75,
+        1228,
+        229
+      ],
+      "ink_pixels": 18612
+    }
+  ]
+}
