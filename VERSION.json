@@ -1,0 +1,20 @@
+{
+  "version": "v0.2-prototype",
+  "saved_at": "2026-09-29 KST",
+  "status": "public-facing UI cleaned; Korean/scientific names shown; dino detail text/source/creator/responsive layout added",
+  "package_mode": "standalone HTML embeds 16 cleaned PNG images as base64",
+  "difficulty_piece_counts": {
+    "easy": 6,
+    "normal": 12,
+    "hard": 20
+  },
+  "public_ui": {
+    "main_cards": "Korean name + scientific name + short feature",
+    "game_detail": "controls preserved; feature/ecology/source/creator shown",
+    "creator": "과학카페 쿠아(QUA) · Budher Song"
+  },
+  "validation": {
+    "script_node_check": "passed before packaging",
+    "stale_process_text": "not found"
+  }
+}
